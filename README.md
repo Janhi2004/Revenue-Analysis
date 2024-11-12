@@ -1,9 +1,9 @@
 # Revenue Analysis Dashboard
 
-![Revenue Analysis](https://github.com/Janhi2004/Revenue-Analysis/blob/main/Revenue%20Analysis.png)
-
 ## Overview
 This dashboard provides a comprehensive analysis of revenue and sales quantity across different markets and products over a multi-year period. It enables executives and analysts to identify high-performing regions, top customers, and products. The dashboard includes key metrics and visualizations, such as monthly revenue trends and top revenue sources, supporting data-driven decision-making and strategic market analysis.
+
+![Revenue Analysis](https://github.com/Janhi2004/Revenue-Analysis/blob/main/Revenue%20Analysis.png)
 
 ---
 
